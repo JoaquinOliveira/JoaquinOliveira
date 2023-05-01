@@ -9,7 +9,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 
 - A passionate Full-Stack Developer
 - Criminal Lawyer at spare time ;). 
@@ -19,7 +19,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -42,37 +42,37 @@
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="50" height="50" alt="Sass" />
       </a>
-      <br>Sass
+      <br>SASS
     </td>
     <td align="center"  width="100">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="Sass" />
       </a>
-      <br>Tailwind
+      <br>TAILWIND
     </td>
     <td align="center" width="100">
       <a href="#">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Soon" />
       </a>
-      <br>Bootstrap
+      <br>BOOSTRAP
     </td>
     <td align="center" width="100">
       <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="50" height="50" alt="Soon" />
       </a>
-      <br>Angular
+      <br>ANGULAR
     </td>
     <td align="center" width="100">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" height="50" alt="Soon" />
       </a>
-      <br>Figma
+      <br>FIGMA
     </td>
      <td align="center" width="100">
       <a href="#">
         <img src="https://w7.pngwing.com/pngs/924/1009/png-transparent-mysql-relational-database-management-system-logo-php-others-orange-logo-mysql-logo.png" width="50" height="50" alt="JavaScript" />
       </a>
-      <br>MySQL
+      <br>MYSQL
     </td>
   </tr>
   <tr>
@@ -80,63 +80,69 @@
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="50" alt="JavaScript" />
       </a>
-      <br>JavaScript
+      <br>JAVASCRIPT
     </td>
     <td align="center" width="100">
       <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50" alt="JavaScript" />
       </a>
-      <br>React
+      <br>REACT / REACT NATIVE
     </td>
     <td align="center" width="100">
       <a href="#">
         <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" width="50" height="50" alt="Redux" />
       </a>
-      <br>Redux
+      <br>REDUX / REDUX TOOLKIT
     </td>
     </td>
     <td align="center" width="100">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50" alt="NodeJS" />
       </a>
-      <br>Node.js
+      <br>NODE.JS
     </td> 
   <td align="center" width="100">
    <a href="#">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="HTML5" />
  </a>
-   <br>Git
+   <br>GIT
   </td>
    <td align="center" width="100">
    <a href="#">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="CSS3" />
    </a>
-  <br>Github
+  <br>GITHUB
    </td>
+          <td align="center" width="100">
+      <a href="#">
+        <img src="https://google.github.io/sqlcommenter/images/sequelize-logo.png" width="50" height="50" alt="JavaScript" />
+      </a>
+      <br>SEQUELIZE
+    </td>
 <tr>
     <td align="center" width="100">
       <a href="#">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="JavaScript" />
       </a>
-      <br>PostgresSQL
+      <br>POSTGRES
     </td>
   <td align="center" width="100">
       <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50" height="50" alt="JavaScript" />
       </a>
-      <br>MongoDB
+      <br>MONGODB
     </td>
    <td align="center" width="100">
       <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="50" height="50" alt="JavaScript" />
       </a>
-      <br>Express
+      <br>EXPRESS
     </td>
   <td align="center" width="100">
       <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/less.svg" width="50" height="50" alt="JavaScript" />
       </a>
-      <br>Less
+      <br>LESS
     </td>
   <td align="center" width="100">
       <a href="#">
@@ -156,16 +162,10 @@
       </a>
       <br>FIREBASE
     </td>
-       <td align="center" width="100">
-      <a href="#">
-        <img src="https://google.github.io/sqlcommenter/images/sequelize-logo.png" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>SEQUELIZE
-    </td>
   </tr>
   
   
-
+<br>
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
