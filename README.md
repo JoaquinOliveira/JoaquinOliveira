@@ -2,11 +2,9 @@
 <h1 align="center"><b>Hi , I'm Joaquin Oliveira</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Joaquin+Santiago+Oliveira;++;FullStack+Developer;++;Computer+Science+Student,Active+Learner/Researcher,;Love+to+learn+new+stuff"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Students;++;FullStack+Developer;++;Active+Learner/Researcher,;Love+to+learn+new+stuff"></a>
 </p>
 
-
-<br>
 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -69,6 +67,12 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" height="50" alt="Soon" />
       </a>
       <br>Figma
+    </td>
+     <td align="center" width="100">
+      <a href="#">
+        <img src="https://w7.pngwing.com/pngs/924/1009/png-transparent-mysql-relational-database-management-system-logo-php-others-orange-logo-mysql-logo.png" width="50" height="50" alt="JavaScript" />
+      </a>
+      <br>MySQL
     </td>
   </tr>
   <tr>
@@ -157,18 +161,6 @@
         <img src="https://google.github.io/sqlcommenter/images/sequelize-logo.png" width="50" height="50" alt="JavaScript" />
       </a>
       <br>SEQUELIZE
-    </td>
-      <td align="center" width="100">
-      <a href="#">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStNF_vWRCX5psTKTLBYH8SEiwVYzNGUiUNrQO9mrSY&s" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>POSTGRES
-    </td>
-       <td align="center" width="100">
-      <a href="#">
-        <img src="https://w7.pngwing.com/pngs/924/1009/png-transparent-mysql-relational-database-management-system-logo-php-others-orange-logo-mysql-logo.png" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>MySQL
     </td>
   </tr>
   
