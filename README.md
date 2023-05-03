@@ -15,7 +15,7 @@
 - Criminal Lawyer at spare time ;). 
 - Currently learning TypeScript!
 - Personal website [link](https://www.joaquinoliveira.com.ar)
-- I’m currently open a new job opportunity, this is [my resume](faltasubirCV)
+- I’m currently open a new job opportunity, this is [my resume](https://docs.google.com/document/d/1W5xZfA0MPoGLISyktRK-LJ3eYy0WwShM/edit?usp=share_link&ouid=105853090924667051230&rtpof=true&sd=true)
 
 <br>
 
